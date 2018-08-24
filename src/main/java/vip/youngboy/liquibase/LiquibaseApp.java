@@ -1,4 +1,4 @@
-package com.young.liquibase;
+package vip.youngboy.liquibase;
 
 import liquibase.CatalogAndSchema;
 import liquibase.Contexts;

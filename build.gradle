@@ -31,9 +31,9 @@ apply plugin: 'maven-publish'
 publishing {
     publications {
         mavenJava(MavenPublication) {
-            groupId 'com.young.liquibase'
+            groupId 'vip.youngboy.liquibase'
             artifactId 'liquibase-cmd'
-            version '1.0.0-SNAPSHOT'
+            version '1.0.0'
 
             from components.java
             // more goes in here
